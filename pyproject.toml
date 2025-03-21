@@ -5,7 +5,7 @@ description = "Ironclad Public API"
 authors = ["Ironclad Support <support@ironcladapp.com>"]
 license = "NoLicense"
 readme = "README.md"
-repository = "https://github.com/GIT_USER_ID/GIT_REPO_ID"
+repository = "https://github.com/fjvillamarin/ironclad-python"
 keywords = ["OpenAPI", "OpenAPI-Generator", "Ironclad Public API"]
 include = ["openapi_client/py.typed"]
 
