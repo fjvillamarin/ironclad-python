@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.bad_request_error_record_attachment_already_exists import BadRequestErrorRecordAttachmentAlreadyExists
+from ironclad_python.models.bad_request_error_record_attachment_already_exists import BadRequestErrorRecordAttachmentAlreadyExists
 
 class TestBadRequestErrorRecordAttachmentAlreadyExists(unittest.TestCase):
     """BadRequestErrorRecordAttachmentAlreadyExists unit test stubs"""

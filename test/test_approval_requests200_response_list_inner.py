@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.approval_requests200_response_list_inner import ApprovalRequests200ResponseListInner
+from ironclad_python.models.approval_requests200_response_list_inner import ApprovalRequests200ResponseListInner
 
 class TestApprovalRequests200ResponseListInner(unittest.TestCase):
     """ApprovalRequests200ResponseListInner unit test stubs"""

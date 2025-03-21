@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.activity_author_model_one_of1 import ActivityAuthorModelOneOf1
+from ironclad_python.models.activity_author_model_one_of1 import ActivityAuthorModelOneOf1
 
 class TestActivityAuthorModelOneOf1(unittest.TestCase):
     """ActivityAuthorModelOneOf1 unit test stubs"""

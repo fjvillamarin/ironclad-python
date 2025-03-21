@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.list_all_workflow_signers200_response_signers_inner_delegates_inner import ListAllWorkflowSigners200ResponseSignersInnerDelegatesInner
+from ironclad_python.models.list_all_workflow_signers200_response_signers_inner_delegates_inner import ListAllWorkflowSigners200ResponseSignersInnerDelegatesInner
 
 class TestListAllWorkflowSigners200ResponseSignersInnerDelegatesInner(unittest.TestCase):
     """ListAllWorkflowSigners200ResponseSignersInnerDelegatesInner unit test stubs"""

@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.retrieve_asynchronous_workflow_status404_response import RetrieveAsynchronousWorkflowStatus404Response
+from ironclad_python.models.retrieve_asynchronous_workflow_status404_response import RetrieveAsynchronousWorkflowStatus404Response
 
 class TestRetrieveAsynchronousWorkflowStatus404Response(unittest.TestCase):
     """RetrieveAsynchronousWorkflowStatus404Response unit test stubs"""

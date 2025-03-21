@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.update_record_metadata_request_add_properties_counterparty_name import UpdateRecordMetadataRequestAddPropertiesCounterpartyName
+from ironclad_python.models.update_record_metadata_request_add_properties_counterparty_name import UpdateRecordMetadataRequestAddPropertiesCounterpartyName
 
 class TestUpdateRecordMetadataRequestAddPropertiesCounterpartyName(unittest.TestCase):
     """UpdateRecordMetadataRequestAddPropertiesCounterpartyName unit test stubs"""

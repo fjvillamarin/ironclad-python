@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.workflow_state_model import WorkflowStateModel
+from ironclad_python.models.workflow_state_model import WorkflowStateModel
 
 class TestWorkflowStateModel(unittest.TestCase):
     """WorkflowStateModel unit test stubs"""

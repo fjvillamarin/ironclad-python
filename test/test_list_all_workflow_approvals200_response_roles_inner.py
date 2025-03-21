@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.list_all_workflow_approvals200_response_roles_inner import ListAllWorkflowApprovals200ResponseRolesInner
+from ironclad_python.models.list_all_workflow_approvals200_response_roles_inner import ListAllWorkflowApprovals200ResponseRolesInner
 
 class TestListAllWorkflowApprovals200ResponseRolesInner(unittest.TestCase):
     """ListAllWorkflowApprovals200ResponseRolesInner unit test stubs"""

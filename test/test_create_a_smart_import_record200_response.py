@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.create_a_smart_import_record200_response import CreateASmartImportRecord200Response
+from ironclad_python.models.create_a_smart_import_record200_response import CreateASmartImportRecord200Response
 
 class TestCreateASmartImportRecord200Response(unittest.TestCase):
     """CreateASmartImportRecord200Response unit test stubs"""

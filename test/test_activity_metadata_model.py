@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.activity_metadata_model import ActivityMetadataModel
+from ironclad_python.models.activity_metadata_model import ActivityMetadataModel
 
 class TestActivityMetadataModel(unittest.TestCase):
     """ActivityMetadataModel unit test stubs"""

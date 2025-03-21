@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.workflow_async_launch_failed_response import WorkflowAsyncLaunchFailedResponse
+from ironclad_python.models.workflow_async_launch_failed_response import WorkflowAsyncLaunchFailedResponse
 
 class TestWorkflowAsyncLaunchFailedResponse(unittest.TestCase):
     """WorkflowAsyncLaunchFailedResponse unit test stubs"""

@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.record_model import RecordModel
+from ironclad_python.models.record_model import RecordModel
 
 class TestRecordModel(unittest.TestCase):
     """RecordModel unit test stubs"""

@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.retrieve_attachment_from_email_thread404_response import RetrieveAttachmentFromEmailThread404Response
+from ironclad_python.models.retrieve_attachment_from_email_thread404_response import RetrieveAttachmentFromEmailThread404Response
 
 class TestRetrieveAttachmentFromEmailThread404Response(unittest.TestCase):
     """RetrieveAttachmentFromEmailThread404Response unit test stubs"""

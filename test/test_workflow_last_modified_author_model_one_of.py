@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.workflow_last_modified_author_model_one_of import WorkflowLastModifiedAuthorModelOneOf
+from ironclad_python.models.workflow_last_modified_author_model_one_of import WorkflowLastModifiedAuthorModelOneOf
 
 class TestWorkflowLastModifiedAuthorModelOneOf(unittest.TestCase):
     """WorkflowLastModifiedAuthorModelOneOf unit test stubs"""

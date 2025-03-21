@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.workflow_async_launch_success_response_workflow_urls import WorkflowAsyncLaunchSuccessResponseWorkflowUrls
+from ironclad_python.models.workflow_async_launch_success_response_workflow_urls import WorkflowAsyncLaunchSuccessResponseWorkflowUrls
 
 class TestWorkflowAsyncLaunchSuccessResponseWorkflowUrls(unittest.TestCase):
     """WorkflowAsyncLaunchSuccessResponseWorkflowUrls unit test stubs"""

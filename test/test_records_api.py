@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.api.records_api import RecordsApi
+from ironclad_python.api.records_api import RecordsApi
 
 
 class TestRecordsApi(unittest.TestCase):

@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.attachment_not_found import AttachmentNotFound
+from ironclad_python.models.attachment_not_found import AttachmentNotFound
 
 class TestAttachmentNotFound(unittest.TestCase):
     """AttachmentNotFound unit test stubs"""

@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.creator_model import CreatorModel
+from ironclad_python.models.creator_model import CreatorModel
 
 class TestCreatorModel(unittest.TestCase):
     """CreatorModel unit test stubs"""

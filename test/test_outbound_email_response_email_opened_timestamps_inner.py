@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.outbound_email_response_email_opened_timestamps_inner import OutboundEmailResponseEmailOpenedTimestampsInner
+from ironclad_python.models.outbound_email_response_email_opened_timestamps_inner import OutboundEmailResponseEmailOpenedTimestampsInner
 
 class TestOutboundEmailResponseEmailOpenedTimestampsInner(unittest.TestCase):
     """OutboundEmailResponseEmailOpenedTimestampsInner unit test stubs"""

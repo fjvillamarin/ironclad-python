@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.bad_request_error_record_attachment_id_not_found import BadRequestErrorRecordAttachmentIDNotFound
+from ironclad_python.models.bad_request_error_record_attachment_id_not_found import BadRequestErrorRecordAttachmentIDNotFound
 
 class TestBadRequestErrorRecordAttachmentIDNotFound(unittest.TestCase):
     """BadRequestErrorRecordAttachmentIDNotFound unit test stubs"""

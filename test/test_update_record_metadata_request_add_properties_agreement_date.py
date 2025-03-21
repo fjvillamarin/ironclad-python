@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.update_record_metadata_request_add_properties_agreement_date import UpdateRecordMetadataRequestAddPropertiesAgreementDate
+from ironclad_python.models.update_record_metadata_request_add_properties_agreement_date import UpdateRecordMetadataRequestAddPropertiesAgreementDate
 
 class TestUpdateRecordMetadataRequestAddPropertiesAgreementDate(unittest.TestCase):
     """UpdateRecordMetadataRequestAddPropertiesAgreementDate unit test stubs"""

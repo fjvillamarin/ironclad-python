@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.record_model_attachments import RecordModelAttachments
+from ironclad_python.models.record_model_attachments import RecordModelAttachments
 
 class TestRecordModelAttachments(unittest.TestCase):
     """RecordModelAttachments unit test stubs"""

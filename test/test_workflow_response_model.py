@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.workflow_response_model import WorkflowResponseModel
+from ironclad_python.models.workflow_response_model import WorkflowResponseModel
 
 class TestWorkflowResponseModel(unittest.TestCase):
     """WorkflowResponseModel unit test stubs"""

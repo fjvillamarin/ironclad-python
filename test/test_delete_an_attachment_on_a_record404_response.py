@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.delete_an_attachment_on_a_record404_response import DeleteAnAttachmentOnARecord404Response
+from ironclad_python.models.delete_an_attachment_on_a_record404_response import DeleteAnAttachmentOnARecord404Response
 
 class TestDeleteAnAttachmentOnARecord404Response(unittest.TestCase):
     """DeleteAnAttachmentOnARecord404Response unit test stubs"""

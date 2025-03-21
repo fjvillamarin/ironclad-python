@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.external_user_model import ExternalUserModel
+from ironclad_python.models.external_user_model import ExternalUserModel
 
 class TestExternalUserModel(unittest.TestCase):
     """ExternalUserModel unit test stubs"""

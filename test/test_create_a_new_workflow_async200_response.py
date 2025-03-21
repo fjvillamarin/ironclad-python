@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.create_a_new_workflow_async200_response import CreateANewWorkflowAsync200Response
+from ironclad_python.models.create_a_new_workflow_async200_response import CreateANewWorkflowAsync200Response
 
 class TestCreateANewWorkflowAsync200Response(unittest.TestCase):
     """CreateANewWorkflowAsync200Response unit test stubs"""

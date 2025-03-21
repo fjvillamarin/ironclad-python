@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.retrieve_import_predictions200_response_one_of_inner import RetrieveImportPredictions200ResponseOneOfInner
+from ironclad_python.models.retrieve_import_predictions200_response_one_of_inner import RetrieveImportPredictions200ResponseOneOfInner
 
 class TestRetrieveImportPredictions200ResponseOneOfInner(unittest.TestCase):
     """RetrieveImportPredictions200ResponseOneOfInner unit test stubs"""

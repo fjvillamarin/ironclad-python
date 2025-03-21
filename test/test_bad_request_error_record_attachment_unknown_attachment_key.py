@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.bad_request_error_record_attachment_unknown_attachment_key import BadRequestErrorRecordAttachmentUnknownAttachmentKey
+from ironclad_python.models.bad_request_error_record_attachment_unknown_attachment_key import BadRequestErrorRecordAttachmentUnknownAttachmentKey
 
 class TestBadRequestErrorRecordAttachmentUnknownAttachmentKey(unittest.TestCase):
     """BadRequestErrorRecordAttachmentUnknownAttachmentKey unit test stubs"""

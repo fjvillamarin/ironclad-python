@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.update_workflow_metadata200_response_signatures import UpdateWorkflowMetadata200ResponseSignatures
+from ironclad_python.models.update_workflow_metadata200_response_signatures import UpdateWorkflowMetadata200ResponseSignatures
 
 class TestUpdateWorkflowMetadata200ResponseSignatures(unittest.TestCase):
     """UpdateWorkflowMetadata200ResponseSignatures unit test stubs"""

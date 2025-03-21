@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.create_an_attachment_on_a_record_request_metadata import CreateAnAttachmentOnARecordRequestMetadata
+from ironclad_python.models.create_an_attachment_on_a_record_request_metadata import CreateAnAttachmentOnARecordRequestMetadata
 
 class TestCreateAnAttachmentOnARecordRequestMetadata(unittest.TestCase):
     """CreateAnAttachmentOnARecordRequestMetadata unit test stubs"""

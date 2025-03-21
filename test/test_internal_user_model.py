@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.internal_user_model import InternalUserModel
+from ironclad_python.models.internal_user_model import InternalUserModel
 
 class TestInternalUserModel(unittest.TestCase):
     """InternalUserModel unit test stubs"""

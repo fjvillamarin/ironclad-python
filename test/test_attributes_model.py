@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.attributes_model import AttributesModel
+from ironclad_python.models.attributes_model import AttributesModel
 
 class TestAttributesModel(unittest.TestCase):
     """AttributesModel unit test stubs"""

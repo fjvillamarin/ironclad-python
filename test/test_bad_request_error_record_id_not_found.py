@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.bad_request_error_record_id_not_found import BadRequestErrorRecordIDNotFound
+from ironclad_python.models.bad_request_error_record_id_not_found import BadRequestErrorRecordIDNotFound
 
 class TestBadRequestErrorRecordIDNotFound(unittest.TestCase):
     """BadRequestErrorRecordIDNotFound unit test stubs"""

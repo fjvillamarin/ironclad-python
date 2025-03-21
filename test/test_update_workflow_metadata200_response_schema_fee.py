@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.update_workflow_metadata200_response_schema_fee import UpdateWorkflowMetadata200ResponseSchemaFee
+from ironclad_python.models.update_workflow_metadata200_response_schema_fee import UpdateWorkflowMetadata200ResponseSchemaFee
 
 class TestUpdateWorkflowMetadata200ResponseSchemaFee(unittest.TestCase):
     """UpdateWorkflowMetadata200ResponseSchemaFee unit test stubs"""

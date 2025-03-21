@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.update_workflow_metadata200_response_schema_draft_element_type import UpdateWorkflowMetadata200ResponseSchemaDraftElementType
+from ironclad_python.models.update_workflow_metadata200_response_schema_draft_element_type import UpdateWorkflowMetadata200ResponseSchemaDraftElementType
 
 class TestUpdateWorkflowMetadata200ResponseSchemaDraftElementType(unittest.TestCase):
     """UpdateWorkflowMetadata200ResponseSchemaDraftElementType unit test stubs"""

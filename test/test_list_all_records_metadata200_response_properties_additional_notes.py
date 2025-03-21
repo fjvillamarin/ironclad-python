@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.list_all_records_metadata200_response_properties_additional_notes import ListAllRecordsMetadata200ResponsePropertiesAdditionalNotes
+from ironclad_python.models.list_all_records_metadata200_response_properties_additional_notes import ListAllRecordsMetadata200ResponsePropertiesAdditionalNotes
 
 class TestListAllRecordsMetadata200ResponsePropertiesAdditionalNotes(unittest.TestCase):
     """ListAllRecordsMetadata200ResponsePropertiesAdditionalNotes unit test stubs"""

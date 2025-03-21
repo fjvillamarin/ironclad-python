@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.list_all_workflow_schemas200_response_list_inner import ListAllWorkflowSchemas200ResponseListInner
+from ironclad_python.models.list_all_workflow_schemas200_response_list_inner import ListAllWorkflowSchemas200ResponseListInner
 
 class TestListAllWorkflowSchemas200ResponseListInner(unittest.TestCase):
     """ListAllWorkflowSchemas200ResponseListInner unit test stubs"""

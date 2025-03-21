@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.update_workflow_metadata200_response_approvals import UpdateWorkflowMetadata200ResponseApprovals
+from ironclad_python.models.update_workflow_metadata200_response_approvals import UpdateWorkflowMetadata200ResponseApprovals
 
 class TestUpdateWorkflowMetadata200ResponseApprovals(unittest.TestCase):
     """UpdateWorkflowMetadata200ResponseApprovals unit test stubs"""

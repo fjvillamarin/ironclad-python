@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.comment_metadata_model_replied_to import CommentMetadataModelRepliedTo
+from ironclad_python.models.comment_metadata_model_replied_to import CommentMetadataModelRepliedTo
 
 class TestCommentMetadataModelRepliedTo(unittest.TestCase):
     """CommentMetadataModelRepliedTo unit test stubs"""

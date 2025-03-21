@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.deprecated_create_a_comment_on_a_workflow_request import DeprecatedCreateACommentOnAWorkflowRequest
+from ironclad_python.models.deprecated_create_a_comment_on_a_workflow_request import DeprecatedCreateACommentOnAWorkflowRequest
 
 class TestDeprecatedCreateACommentOnAWorkflowRequest(unittest.TestCase):
     """DeprecatedCreateACommentOnAWorkflowRequest unit test stubs"""

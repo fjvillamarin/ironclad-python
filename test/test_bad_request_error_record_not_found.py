@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.bad_request_error_record_not_found import BadRequestErrorRecordNotFound
+from ironclad_python.models.bad_request_error_record_not_found import BadRequestErrorRecordNotFound
 
 class TestBadRequestErrorRecordNotFound(unittest.TestCase):
     """BadRequestErrorRecordNotFound unit test stubs"""

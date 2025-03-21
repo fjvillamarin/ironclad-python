@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.workflow_not_found import WorkflowNotFound
+from ironclad_python.models.workflow_not_found import WorkflowNotFound
 
 class TestWorkflowNotFound(unittest.TestCase):
     """WorkflowNotFound unit test stubs"""

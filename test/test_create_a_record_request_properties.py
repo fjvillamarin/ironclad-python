@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.create_a_record_request_properties import CreateARecordRequestProperties
+from ironclad_python.models.create_a_record_request_properties import CreateARecordRequestProperties
 
 class TestCreateARecordRequestProperties(unittest.TestCase):
     """CreateARecordRequestProperties unit test stubs"""

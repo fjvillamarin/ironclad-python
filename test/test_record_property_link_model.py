@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.record_property_link_model import RecordPropertyLinkModel
+from ironclad_python.models.record_property_link_model import RecordPropertyLinkModel
 
 class TestRecordPropertyLinkModel(unittest.TestCase):
     """RecordPropertyLinkModel unit test stubs"""

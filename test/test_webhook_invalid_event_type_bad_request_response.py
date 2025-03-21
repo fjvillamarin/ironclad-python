@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.webhook_invalid_event_type_bad_request_response import WebhookInvalidEventTypeBadRequestResponse
+from ironclad_python.models.webhook_invalid_event_type_bad_request_response import WebhookInvalidEventTypeBadRequestResponse
 
 class TestWebhookInvalidEventTypeBadRequestResponse(unittest.TestCase):
     """WebhookInvalidEventTypeBadRequestResponse unit test stubs"""

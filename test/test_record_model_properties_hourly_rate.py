@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.record_model_properties_hourly_rate import RecordModelPropertiesHourlyRate
+from ironclad_python.models.record_model_properties_hourly_rate import RecordModelPropertiesHourlyRate
 
 class TestRecordModelPropertiesHourlyRate(unittest.TestCase):
     """RecordModelPropertiesHourlyRate unit test stubs"""

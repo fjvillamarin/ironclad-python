@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.approval_requests200_response import ApprovalRequests200Response
+from ironclad_python.models.approval_requests200_response import ApprovalRequests200Response
 
 class TestApprovalRequests200Response(unittest.TestCase):
     """ApprovalRequests200Response unit test stubs"""

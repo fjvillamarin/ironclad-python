@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.webhook_target_url_exists_bad_request_response import WebhookTargetURLExistsBadRequestResponse
+from ironclad_python.models.webhook_target_url_exists_bad_request_response import WebhookTargetURLExistsBadRequestResponse
 
 class TestWebhookTargetURLExistsBadRequestResponse(unittest.TestCase):
     """WebhookTargetURLExistsBadRequestResponse unit test stubs"""

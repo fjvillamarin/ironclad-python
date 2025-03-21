@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.api.workflows_api import WorkflowsApi
+from ironclad_python.api.workflows_api import WorkflowsApi
 
 
 class TestWorkflowsApi(unittest.TestCase):

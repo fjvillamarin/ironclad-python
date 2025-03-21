@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.record_model_properties_counterparty_email import RecordModelPropertiesCounterpartyEmail
+from ironclad_python.models.record_model_properties_counterparty_email import RecordModelPropertiesCounterpartyEmail
 
 class TestRecordModelPropertiesCounterpartyEmail(unittest.TestCase):
     """RecordModelPropertiesCounterpartyEmail unit test stubs"""

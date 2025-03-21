@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.workflow_response_model_roles_inner import WorkflowResponseModelRolesInner
+from ironclad_python.models.workflow_response_model_roles_inner import WorkflowResponseModelRolesInner
 
 class TestWorkflowResponseModelRolesInner(unittest.TestCase):
     """WorkflowResponseModelRolesInner unit test stubs"""

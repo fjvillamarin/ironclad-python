@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.update_workflow_metadata_request import UpdateWorkflowMetadataRequest
+from ironclad_python.models.update_workflow_metadata_request import UpdateWorkflowMetadataRequest
 
 class TestUpdateWorkflowMetadataRequest(unittest.TestCase):
     """UpdateWorkflowMetadataRequest unit test stubs"""

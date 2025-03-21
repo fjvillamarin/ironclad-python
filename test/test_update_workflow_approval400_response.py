@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.update_workflow_approval400_response import UpdateWorkflowApproval400Response
+from ironclad_python.models.update_workflow_approval400_response import UpdateWorkflowApproval400Response
 
 class TestUpdateWorkflowApproval400Response(unittest.TestCase):
     """UpdateWorkflowApproval400Response unit test stubs"""

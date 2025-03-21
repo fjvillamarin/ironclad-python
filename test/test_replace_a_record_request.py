@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.replace_a_record_request import ReplaceARecordRequest
+from ironclad_python.models.replace_a_record_request import ReplaceARecordRequest
 
 class TestReplaceARecordRequest(unittest.TestCase):
     """ReplaceARecordRequest unit test stubs"""

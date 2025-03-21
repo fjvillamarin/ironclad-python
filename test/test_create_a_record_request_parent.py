@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.create_a_record_request_parent import CreateARecordRequestParent
+from ironclad_python.models.create_a_record_request_parent import CreateARecordRequestParent
 
 class TestCreateARecordRequestParent(unittest.TestCase):
     """CreateARecordRequestParent unit test stubs"""

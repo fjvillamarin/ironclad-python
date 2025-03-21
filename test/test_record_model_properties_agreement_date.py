@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.record_model_properties_agreement_date import RecordModelPropertiesAgreementDate
+from ironclad_python.models.record_model_properties_agreement_date import RecordModelPropertiesAgreementDate
 
 class TestRecordModelPropertiesAgreementDate(unittest.TestCase):
     """RecordModelPropertiesAgreementDate unit test stubs"""

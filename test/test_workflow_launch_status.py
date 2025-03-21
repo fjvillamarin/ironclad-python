@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.workflow_launch_status import WorkflowLaunchStatus
+from ironclad_python.models.workflow_launch_status import WorkflowLaunchStatus
 
 class TestWorkflowLaunchStatus(unittest.TestCase):
     """WorkflowLaunchStatus unit test stubs"""

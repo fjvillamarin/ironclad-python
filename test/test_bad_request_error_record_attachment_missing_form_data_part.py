@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.bad_request_error_record_attachment_missing_form_data_part import BadRequestErrorRecordAttachmentMissingFormDataPart
+from ironclad_python.models.bad_request_error_record_attachment_missing_form_data_part import BadRequestErrorRecordAttachmentMissingFormDataPart
 
 class TestBadRequestErrorRecordAttachmentMissingFormDataPart(unittest.TestCase):
     """BadRequestErrorRecordAttachmentMissingFormDataPart unit test stubs"""

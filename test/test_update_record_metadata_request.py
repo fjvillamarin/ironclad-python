@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.update_record_metadata_request import UpdateRecordMetadataRequest
+from ironclad_python.models.update_record_metadata_request import UpdateRecordMetadataRequest
 
 class TestUpdateRecordMetadataRequest(unittest.TestCase):
     """UpdateRecordMetadataRequest unit test stubs"""

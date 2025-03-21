@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.workflow_async_in_progress_response import WorkflowAsyncInProgressResponse
+from ironclad_python.models.workflow_async_in_progress_response import WorkflowAsyncInProgressResponse
 
 class TestWorkflowAsyncInProgressResponse(unittest.TestCase):
     """WorkflowAsyncInProgressResponse unit test stubs"""

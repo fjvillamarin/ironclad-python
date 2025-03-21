@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.workflow_role_model import WorkflowRoleModel
+from ironclad_python.models.workflow_role_model import WorkflowRoleModel
 
 class TestWorkflowRoleModel(unittest.TestCase):
     """WorkflowRoleModel unit test stubs"""

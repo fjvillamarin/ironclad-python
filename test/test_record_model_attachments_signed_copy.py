@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.record_model_attachments_signed_copy import RecordModelAttachmentsSignedCopy
+from ironclad_python.models.record_model_attachments_signed_copy import RecordModelAttachmentsSignedCopy
 
 class TestRecordModelAttachmentsSignedCopy(unittest.TestCase):
     """RecordModelAttachmentsSignedCopy unit test stubs"""

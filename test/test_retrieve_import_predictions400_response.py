@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.retrieve_import_predictions400_response import RetrieveImportPredictions400Response
+from ironclad_python.models.retrieve_import_predictions400_response import RetrieveImportPredictions400Response
 
 class TestRetrieveImportPredictions400Response(unittest.TestCase):
     """RetrieveImportPredictions400Response unit test stubs"""

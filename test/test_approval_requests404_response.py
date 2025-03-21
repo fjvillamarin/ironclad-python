@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.approval_requests404_response import ApprovalRequests404Response
+from ironclad_python.models.approval_requests404_response import ApprovalRequests404Response
 
 class TestApprovalRequests404Response(unittest.TestCase):
     """ApprovalRequests404Response unit test stubs"""

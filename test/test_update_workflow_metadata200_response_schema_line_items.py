@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.update_workflow_metadata200_response_schema_line_items import UpdateWorkflowMetadata200ResponseSchemaLineItems
+from ironclad_python.models.update_workflow_metadata200_response_schema_line_items import UpdateWorkflowMetadata200ResponseSchemaLineItems
 
 class TestUpdateWorkflowMetadata200ResponseSchemaLineItems(unittest.TestCase):
     """UpdateWorkflowMetadata200ResponseSchemaLineItems unit test stubs"""

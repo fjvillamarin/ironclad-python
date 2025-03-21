@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.user_model import UserModel
+from ironclad_python.models.user_model import UserModel
 
 class TestUserModel(unittest.TestCase):
     """UserModel unit test stubs"""

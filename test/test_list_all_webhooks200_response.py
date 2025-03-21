@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.list_all_webhooks200_response import ListAllWebhooks200Response
+from ironclad_python.models.list_all_webhooks200_response import ListAllWebhooks200Response
 
 class TestListAllWebhooks200Response(unittest.TestCase):
     """ListAllWebhooks200Response unit test stubs"""

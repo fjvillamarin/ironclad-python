@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.email_response_model import EmailResponseModel
+from ironclad_python.models.email_response_model import EmailResponseModel
 
 class TestEmailResponseModel(unittest.TestCase):
     """EmailResponseModel unit test stubs"""

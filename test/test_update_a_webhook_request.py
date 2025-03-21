@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.update_a_webhook_request import UpdateAWebhookRequest
+from ironclad_python.models.update_a_webhook_request import UpdateAWebhookRequest
 
 class TestUpdateAWebhookRequest(unittest.TestCase):
     """UpdateAWebhookRequest unit test stubs"""

@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.webhook_event_type_value import WebhookEventTypeValue
+from ironclad_python.models.webhook_event_type_value import WebhookEventTypeValue
 
 class TestWebhookEventTypeValue(unittest.TestCase):
     """WebhookEventTypeValue unit test stubs"""

@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.record_model_properties_counterparty_name import RecordModelPropertiesCounterpartyName
+from ironclad_python.models.record_model_properties_counterparty_name import RecordModelPropertiesCounterpartyName
 
 class TestRecordModelPropertiesCounterpartyName(unittest.TestCase):
     """RecordModelPropertiesCounterpartyName unit test stubs"""

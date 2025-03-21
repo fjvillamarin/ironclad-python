@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.update_workflow_metadata200_response_schema_counterparty_name import UpdateWorkflowMetadata200ResponseSchemaCounterpartyName
+from ironclad_python.models.update_workflow_metadata200_response_schema_counterparty_name import UpdateWorkflowMetadata200ResponseSchemaCounterpartyName
 
 class TestUpdateWorkflowMetadata200ResponseSchemaCounterpartyName(unittest.TestCase):
     """UpdateWorkflowMetadata200ResponseSchemaCounterpartyName unit test stubs"""

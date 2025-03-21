@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.launched_workflow_model_creator import LaunchedWorkflowModelCreator
+from ironclad_python.models.launched_workflow_model_creator import LaunchedWorkflowModelCreator
 
 class TestLaunchedWorkflowModelCreator(unittest.TestCase):
     """LaunchedWorkflowModelCreator unit test stubs"""

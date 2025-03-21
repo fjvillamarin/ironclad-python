@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.list_all_records_metadata200_response_properties_agreement_date import ListAllRecordsMetadata200ResponsePropertiesAgreementDate
+from ironclad_python.models.list_all_records_metadata200_response_properties_agreement_date import ListAllRecordsMetadata200ResponsePropertiesAgreementDate
 
 class TestListAllRecordsMetadata200ResponsePropertiesAgreementDate(unittest.TestCase):
     """ListAllRecordsMetadata200ResponsePropertiesAgreementDate unit test stubs"""

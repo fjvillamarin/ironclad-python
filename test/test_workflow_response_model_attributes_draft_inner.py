@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.workflow_response_model_attributes_draft_inner import WorkflowResponseModelAttributesDraftInner
+from ironclad_python.models.workflow_response_model_attributes_draft_inner import WorkflowResponseModelAttributesDraftInner
 
 class TestWorkflowResponseModelAttributesDraftInner(unittest.TestCase):
     """WorkflowResponseModelAttributesDraftInner unit test stubs"""

@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.create_an_attachment_on_a_record400_response import CreateAnAttachmentOnARecord400Response
+from ironclad_python.models.create_an_attachment_on_a_record400_response import CreateAnAttachmentOnARecord400Response
 
 class TestCreateAnAttachmentOnARecord400Response(unittest.TestCase):
     """CreateAnAttachmentOnARecord400Response unit test stubs"""

@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.base_activity_feed_item_model import BaseActivityFeedItemModel
+from ironclad_python.models.base_activity_feed_item_model import BaseActivityFeedItemModel
 
 class TestBaseActivityFeedItemModel(unittest.TestCase):
     """BaseActivityFeedItemModel unit test stubs"""

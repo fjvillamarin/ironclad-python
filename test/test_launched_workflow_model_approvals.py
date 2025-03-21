@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.launched_workflow_model_approvals import LaunchedWorkflowModelApprovals
+from ironclad_python.models.launched_workflow_model_approvals import LaunchedWorkflowModelApprovals
 
 class TestLaunchedWorkflowModelApprovals(unittest.TestCase):
     """LaunchedWorkflowModelApprovals unit test stubs"""

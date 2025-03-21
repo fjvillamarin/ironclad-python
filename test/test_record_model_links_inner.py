@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.record_model_links_inner import RecordModelLinksInner
+from ironclad_python.models.record_model_links_inner import RecordModelLinksInner
 
 class TestRecordModelLinksInner(unittest.TestCase):
     """RecordModelLinksInner unit test stubs"""

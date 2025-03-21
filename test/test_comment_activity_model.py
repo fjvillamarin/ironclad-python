@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.comment_activity_model import CommentActivityModel
+from ironclad_python.models.comment_activity_model import CommentActivityModel
 
 class TestCommentActivityModel(unittest.TestCase):
     """CommentActivityModel unit test stubs"""

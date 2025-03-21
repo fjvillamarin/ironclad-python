@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.outbound_attachment_model import OutboundAttachmentModel
+from ironclad_python.models.outbound_attachment_model import OutboundAttachmentModel
 
 class TestOutboundAttachmentModel(unittest.TestCase):
     """OutboundAttachmentModel unit test stubs"""

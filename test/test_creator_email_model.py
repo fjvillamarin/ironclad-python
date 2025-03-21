@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.creator_email_model import CreatorEmailModel
+from ironclad_python.models.creator_email_model import CreatorEmailModel
 
 class TestCreatorEmailModel(unittest.TestCase):
     """CreatorEmailModel unit test stubs"""

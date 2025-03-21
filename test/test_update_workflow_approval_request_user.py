@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.update_workflow_approval_request_user import UpdateWorkflowApprovalRequestUser
+from ironclad_python.models.update_workflow_approval_request_user import UpdateWorkflowApprovalRequestUser
 
 class TestUpdateWorkflowApprovalRequestUser(unittest.TestCase):
     """UpdateWorkflowApprovalRequestUser unit test stubs"""

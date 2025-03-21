@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.create_a_webhook_request import CreateAWebhookRequest
+from ironclad_python.models.create_a_webhook_request import CreateAWebhookRequest
 
 class TestCreateAWebhookRequest(unittest.TestCase):
     """CreateAWebhookRequest unit test stubs"""

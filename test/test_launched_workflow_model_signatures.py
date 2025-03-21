@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.launched_workflow_model_signatures import LaunchedWorkflowModelSignatures
+from ironclad_python.models.launched_workflow_model_signatures import LaunchedWorkflowModelSignatures
 
 class TestLaunchedWorkflowModelSignatures(unittest.TestCase):
     """LaunchedWorkflowModelSignatures unit test stubs"""

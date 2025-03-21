@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.email_not_found import EmailNotFound
+from ironclad_python.models.email_not_found import EmailNotFound
 
 class TestEmailNotFound(unittest.TestCase):
     """EmailNotFound unit test stubs"""

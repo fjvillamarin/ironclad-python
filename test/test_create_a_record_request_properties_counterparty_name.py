@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.create_a_record_request_properties_counterparty_name import CreateARecordRequestPropertiesCounterpartyName
+from ironclad_python.models.create_a_record_request_properties_counterparty_name import CreateARecordRequestPropertiesCounterpartyName
 
 class TestCreateARecordRequestPropertiesCounterpartyName(unittest.TestCase):
     """CreateARecordRequestPropertiesCounterpartyName unit test stubs"""

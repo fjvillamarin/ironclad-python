@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.attributes_model_draft_inner import AttributesModelDraftInner
+from ironclad_python.models.attributes_model_draft_inner import AttributesModelDraftInner
 
 class TestAttributesModelDraftInner(unittest.TestCase):
     """AttributesModelDraftInner unit test stubs"""

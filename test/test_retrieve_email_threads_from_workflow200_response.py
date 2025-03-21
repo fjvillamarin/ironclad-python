@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.retrieve_email_threads_from_workflow200_response import RetrieveEmailThreadsFromWorkflow200Response
+from ironclad_python.models.retrieve_email_threads_from_workflow200_response import RetrieveEmailThreadsFromWorkflow200Response
 
 class TestRetrieveEmailThreadsFromWorkflow200Response(unittest.TestCase):
     """RetrieveEmailThreadsFromWorkflow200Response unit test stubs"""

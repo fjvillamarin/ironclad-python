@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.activity_reaction_model import ActivityReactionModel
+from ironclad_python.models.activity_reaction_model import ActivityReactionModel
 
 class TestActivityReactionModel(unittest.TestCase):
     """ActivityReactionModel unit test stubs"""

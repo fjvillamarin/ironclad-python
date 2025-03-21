@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.turn_history200_response_list_inner import TurnHistory200ResponseListInner
+from ironclad_python.models.turn_history200_response_list_inner import TurnHistory200ResponseListInner
 
 class TestTurnHistory200ResponseListInner(unittest.TestCase):
     """TurnHistory200ResponseListInner unit test stubs"""

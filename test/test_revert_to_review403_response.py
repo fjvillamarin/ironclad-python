@@ -15,7 +15,7 @@
 
 import unittest
 
-from openapi_client.models.revert_to_review403_response import RevertToReview403Response
+from ironclad_python.models.revert_to_review403_response import RevertToReview403Response
 
 class TestRevertToReview403Response(unittest.TestCase):
     """RevertToReview403Response unit test stubs"""
